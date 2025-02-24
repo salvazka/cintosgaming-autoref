@@ -1,5 +1,11 @@
 # cintosgaming-autoref
 # join my telegram channel here: https://t.me/DropHunterxyz
+## Pastikan Node.js dan npm sudah terinstal. Cek dengan perintah:
+```
+node -v
+npm -v
+```
+Jika belum terinstal, download dari nodejs.org
 ## HOW TO USE
 1. clone repository
 ```
