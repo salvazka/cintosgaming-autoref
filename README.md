@@ -8,7 +8,7 @@ git clone https://github.com/salvazka/cintosgaming-autoref.git
 2. Masuk ke Folder Proyek
 Buka Git Bash, lalu pindah ke direktori proyek:
 ```
-cd cngaming-Autoreff
+cd cintosgaming-autoref
 ```
 3. Instal Semua Dependensi
 Jalankan perintah berikut untuk menginstal semua dependensi yang ada di package.json:
